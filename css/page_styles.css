@@ -4,6 +4,6 @@
     }
 #backtop{
     position:fixed;
-    right:1px;
-    bottom:1px;
+    right:50%;
+    bottom:50%;
 }
