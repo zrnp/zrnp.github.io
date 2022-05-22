@@ -172,13 +172,6 @@
 
   
   <url>
-    <loc>http://zrnp.github.io/tags/%E6%81%B6%E9%AD%94%E5%9F%8E/</loc>
-    <lastmod>2022-05-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://zrnp.github.io/tags/%E9%AD%94%E6%88%92/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
@@ -187,6 +180,13 @@
   
   <url>
     <loc>http://zrnp.github.io/tags/%E7%B2%BE%E7%81%B5%E5%AE%9D%E9%92%BB/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://zrnp.github.io/tags/%E6%81%B6%E9%AD%94%E5%9F%8E/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -244,14 +244,14 @@
 
   
   <url>
-    <loc>http://zrnp.github.io/categories/%E6%81%B6%E9%AD%94%E5%9F%8E/</loc>
+    <loc>http://zrnp.github.io/categories/%E7%B2%BE%E7%81%B5%E5%AE%9D%E9%92%BB/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://zrnp.github.io/categories/%E5%85%B6%E4%BB%96%E7%9F%AD%E7%AF%87/</loc>
+    <loc>http://zrnp.github.io/categories/%E6%81%B6%E9%AD%94%E5%9F%8E/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -265,14 +265,14 @@
   </url>
   
   <url>
-    <loc>http://zrnp.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://zrnp.github.io/categories/%E5%85%B6%E4%BB%96%E7%9F%AD%E7%AF%87/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://zrnp.github.io/categories/%E7%B2%BE%E7%81%B5%E5%AE%9D%E9%92%BB/</loc>
+    <loc>http://zrnp.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
