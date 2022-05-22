@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #96ff5d;
+  background: #fffff9;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2794,4 +2794,36 @@ dd {
 }
 .darkmode--activated .site-author-image {
   content: url("../uploads/Sephiroth-verse.gif");
+}
+img {
+  max-width: 100%;
+}
+hr {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: border-box;
+  background-color: #888;
+  box-sizing: border-box;
+  color: #808080;
+  display: block;
+  font-size: 1em;
+  height: 4px;
+  overflow: hidden;
+  margin: 1.6em 0;
+  padding: 0;
+  border: currentColor none medium;
+}
+hr:after {
+  content: " ";
+  display: table;
+}
+hr:before {
+  content: " ";
+  display: table;
+}
+.toc-heading {
+  display: none;
+}
+.endnote-link {
+  display: block;
+  font-size: 0.75em;
 }
