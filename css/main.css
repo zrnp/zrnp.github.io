@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff6e1b;
+  background: #bfffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2830,4 +2830,12 @@ hr:before {
 .font-note {
   font-size: 0.9em;
   font-family: '华文仿宋', '仿宋', serif;
+}
+.TRSorigin {
+  font-size: 0.75em;
+  display: block;
+  font-family: "Times New Roman", serif;
+}
+.TRStarget {
+  display: block;
 }
